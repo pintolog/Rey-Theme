@@ -1,0 +1,1 @@
+ .woocommerce .rey-productThumbnail span.onsale, .woocommerce .rey-productThumbnail span.rey-discount,.woocommerce .rey-productThumbnail .rey-itemBadge {padding: 5px 10px !important;font-size: 12px !important;}

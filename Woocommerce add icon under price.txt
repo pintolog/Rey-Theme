@@ -1,0 +1,1 @@
+ add_action('woocommerce_after_shop_loop_item', function(){echo '<div class="custom-img" style="max-width: 60px; margin-left: auto; margin-right: auto;"><img src="https://esticastro.co.il/wp-content/uploads/2021/07/infinity.svg" alt=""></div>';}, 910);

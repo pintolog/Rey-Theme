@@ -1,0 +1,1 @@
+ add_filter('reycore/loop/component_hooks', function($components){$components['new_badge']['tag'] = 'reycore/loop_inside_thumbnail/top-right';return $components;});
